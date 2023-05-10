@@ -1,0 +1,1 @@
+# TabelaEspalhamento-Ex2
